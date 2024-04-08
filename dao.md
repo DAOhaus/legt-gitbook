@@ -4,8 +4,12 @@ description: decentralized autonomous organizations
 
 # daø
 
-The internet is ushering in massive changes in every aspect of life such as global communication, currency exchange, artificial intelligence, bio-engineering and much more resulting in the need for upgraded forms of governance.  We are currently running "governance operating systems" so to speak which were created with mindsets and needs from before the invention of modern technology like the telephone.  DAOs will be part of this upgrading process.\
-\
+The internet is ushering in massive changes in every aspect of life such as global communication, currency exchange, artificial intelligence, bio-engineering and much more resulting in the need for upgraded forms of governance.  We are currently running "governance operating systems" so to speak which were created with mindsets and needs from before the invention of modern technology like the telephone.  DAOs will be part of this upgrading process.
+
+{% embed url="https://youtu.be/AqjIWmiAidw?showinfo=0&si=oW9BnEl0nG5I0DH2&t=60" %}
+video exploring implications of dao systems
+{% endembed %}
+
 Community owned assets have existed for as long as humans have been alive.  Natives in the Americas often didn't even fully understand the European notion of "owning" privately land.  Most of the highly centralized efforts to control groups and collective assets is a product of the industrial age, and is not time or nature tested as an optimal use pattern. &#x20;
 
 Yes, everything exists on a gradient between decentralized & centralized so nothing is actually ever fully one way or the other, this is important to realize. We must act accordingly to decentralize/centralize where appropriate and will often sway between the two as we follow the optimal path forward. Initially the DAO's responsibilities will be to:
