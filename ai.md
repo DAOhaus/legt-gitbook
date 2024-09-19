@@ -8,7 +8,7 @@ AI is such a huge new topic that writing about it's use cases would be an exhaus
 
 * Legal Contracts
 * Defi Trading Strategies
-* Content Creation
+* Asset Creation & Listing
 * Marketing Efforts
 * Member Management
 
