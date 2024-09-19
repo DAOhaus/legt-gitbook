@@ -10,4 +10,4 @@
   * [Stake to Own](irl/stake-to-own.md)
 * [why](why.md)
 * [jøin](join.md)
-* [🥷🏻 ninja](ninja.md)
+* [🥷🏻](undefined.md)
