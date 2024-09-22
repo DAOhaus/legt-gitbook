@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🥷🏻 ninja
+# 🥷🏻
 
 When dealing with real world assets, we have to take tokenomics very seriously and don't have room to create intricate and arbitrary promotional dynamics such as giveaways and airdrops.\
 \
@@ -31,7 +31,8 @@ Just like the continental railroad started from both the east and west coasts, b
 
 While we aren't necessarily in "stealth" as many startups would classify it we are stealthily developing our protocol, sharpening our skills and code until we are ready to take the world by storm.
 
-Become one with the token. Become a 🥷
+Become one with the token. \
+Become a 🥷
 
 ### Details
 
