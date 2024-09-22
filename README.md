@@ -10,9 +10,9 @@ This will be achieved by linking [legal contracts](ai.md) to bridge assets from 
 
 Basically it's a more open, modular & accessible ecosystem for RWA tokens similar to projects like [centrifuge](https://centrifuge.io/), [mattereum](https://mattereum.com/) or [mantra](https://www.mantrachain.io/) built to be jurisdictionally / asset / chain agnostic.\
 \
-The lead dev & visionary behind the protocol is a blockchain veteran that lost a substantial amount in the collapse of Terra's UST and has since set out on a mission to re-define how we think about stablecoins by basing them in assets that one intrinsically wants to own, utilize and enjoy.  All empowered through a modular, open and permissionless protocol.
+The lead dev & visionary behind the protocol is a blockchain veteran that since losing a substantial amount in the collapse of Terra's UST has set out on a mission to re-define how we think about stablecoins by basing them in assets that one intrinsically wants to own, utilize and enjoy.  All empowered through a modular, open and permissionless protocol.
 
-This will empower groups to collectively own homes and other assets around the world, create amazing experiences and govern themselves via their own ecosystem of stable and **L**egally **E**mpowered **G**overnance **T**okens = [L£GT](https://legt.co)\
+Think of it as a group of people that collectively own homes and other assets around the world, create amazing experiences and govern themselves via their own ecosystem of stable and **L**egally **E**mpowered **G**overnance **T**okens.  That's [L£GT](https://legt.co) \
 \
-😏 🪙 📑 🏡 💹 🌎 🚀
+😎 🪙 📑 🏡 💹 🌎 🚀
 
