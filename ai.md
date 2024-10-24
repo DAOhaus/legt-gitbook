@@ -12,4 +12,4 @@ AI is such a huge new topic that writing about it's use cases would be an exhaus
 * Marketing Efforts
 * Member Management
 
-Legal contracts seem the first priority as it is such a language heavy field that it seems best suited to be able to have a conversation with an asset owner, understand what they are wanting to do and create compliant legal agreements to achieve those purposes.
+Legal Contracts and Project Creation seem the first priority as it is such a language heavy field that it seems best suited to be able to have a conversation with an asset owner, understand what they are wanting to do and create compliant legal agreements to achieve those purposes.

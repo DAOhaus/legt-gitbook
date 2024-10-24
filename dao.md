@@ -4,7 +4,7 @@ description: decentralized autonomous organizations
 
 # daø
 
-The internet is ushering in massive changes in every aspect of life such as global communication, currency exchange, artificial intelligence, bio-engineering and much more resulting in the need for upgraded forms of governance.  We are currently running "governance operating systems" so to speak which were created with mindsets and needs from before the invention of modern technology like the telephone.  DAOs will be part of this upgrading process.
+Incase this is a new concept for you let me explain.  The internet is ushering in massive changes in every aspect of life such as global communication, currency exchange, artificial intelligence, bio-engineering and much more resulting in the need for upgraded forms of governance.  We are currently running "governance operating systems" so to speak which were created with mindsets and needs from before the invention of modern technology like the telephone.  DAOs will be part of this upgrading process.
 
 {% embed url="https://youtu.be/AqjIWmiAidw?showinfo=0&si=oW9BnEl0nG5I0DH2&t=60" %}
 video exploring implications of dao systems
